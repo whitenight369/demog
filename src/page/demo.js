@@ -1,0 +1,2 @@
+"dasdasdasdasd";
+const c = "dasdasdadasdasd";
